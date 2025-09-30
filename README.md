@@ -1,6 +1,4 @@
-# Live Demo
-
-[**➡️ Click here for the Live Demo**](https://your-live-demo-link.com) ---
+# Live Demo : [**➡️ Click here for the Live Demo**](https://your-live-demo-link.com) ---
 
 
 ## Plant  Disease Detection
@@ -68,4 +66,5 @@ To run this project on your local machine, please follow these steps:
     This will open the application in your default web browser.
 
 ---
+
 
