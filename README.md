@@ -3,9 +3,9 @@
 [**➡️ Click here for the Live Demo**](https://your-live-demo-link.com) ---
 
 
-# Plant  Disease Detection
+## Plant  Disease Detection
 
-## 📖 Project Description
+### 📖 Project Description
 
 This project is an intelligent image classification system engineered to accurately diagnose **39 distinct types of plant diseases** directly from leaf images. The core of this system is a **Convolutional Neural Network (CNN)**, a deep learning model meticulously trained to achieve **86% accuracy** on the validation set.
 
@@ -13,7 +13,7 @@ To make this powerful diagnostic tool accessible and easy to use, an interactive
 
 ---
 
-## ✨ Features
+### ✨ Features
 
 -   **High Accuracy:** Leverages a CNN model to identify 39 different plant diseases with 86% validation accuracy.
 -   **User-Friendly Interface:** An interactive and intuitive web application built with Streamlit for a seamless user experience.
@@ -22,7 +22,7 @@ To make this powerful diagnostic tool accessible and easy to use, an interactive
 
 ---
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 -   **Backend & Model:** Python
 -   **Deep Learning:** TensorFlow, Keras
@@ -30,7 +30,7 @@ To make this powerful diagnostic tool accessible and easy to use, an interactive
 
 ---
 
-## 🚀 How to Use
+### 🚀 How to Use
 
 1.  **Navigate to the Live Demo:** Click the link in the [Live Demo](#live-demo) section.
 2.  **Upload an Image:** Click on the "Browse files" button or drag and drop an image of a plant leaf into the uploader.
@@ -38,7 +38,7 @@ To make this powerful diagnostic tool accessible and easy to use, an interactive
 
 ---
 
-## ⚙️ Installation & Local Setup
+### ⚙️ Installation & Local Setup
 
 To run this project on your local machine, please follow these steps:
 
@@ -68,3 +68,4 @@ To run this project on your local machine, please follow these steps:
     This will open the application in your default web browser.
 
 ---
+
