@@ -1,4 +1,4 @@
-# Live Demo : [**➡️ Click here for the Live Demo**]([https://your-live-demo-link.com](https://huggingface.co/spaces/Rpokhariya/plant-disease-detection-application))
+# Live Demo : [**➡️ Click here for the Live Demo**]([https://your-live-demo-link.com](https://huggingface.co/spaces/Rpokhariya/plant-disease-detection-application)
 
 
 ## Plant  Disease Detection
